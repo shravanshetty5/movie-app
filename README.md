@@ -1,0 +1,1 @@
+Demo app to learn Jasmine and Karma indepth.
